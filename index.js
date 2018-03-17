@@ -4,7 +4,7 @@ exports.decorateConfig = (config) => {
         termCSS: `
             ${config.termCSS || ''}
             ::-webkit-scrollbar-thumb {
-                background: #ffffff;
+                background: #f1f1f0;
             }
             `
     })
