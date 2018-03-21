@@ -1,11 +1,11 @@
 {
-  "name": "hyper-dark-scrollbar",
-  "version": "1.1.0",
-  "description": "Pretty scrollbar for hyper",
+  "name": "hyper-snazzy-scrollbar",
+  "version": "1.0.0",
+  "description": "Pretty scrollbar matching the snazzy theme for Hyper",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moso/hyper-dark-scrollbar.git"
+    "url": "git+https://github.com/Stanzilla/hyper-dark-scrollbar.git"
   },
   "keywords": [
     "hyper",
@@ -16,9 +16,6 @@
     "scroll",
     "scrollbar"
   ],
-  "dependencies": {
-    "color": "^1.0.3"
-  },
-  "author": "Morten Sørensen <morten@moso.io>",
+  "author": "Benjamin Staneck <staneck@gmail.com>",
   "license": "MIT"
 }
